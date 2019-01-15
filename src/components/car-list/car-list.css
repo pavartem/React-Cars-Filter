@@ -1,0 +1,4 @@
+.car-list:hover .car-name, .car-list:hover .car-price, .car-list:hover .car-year, .car-list:hover {
+    color: #f60;
+    cursor: pointer;
+}
